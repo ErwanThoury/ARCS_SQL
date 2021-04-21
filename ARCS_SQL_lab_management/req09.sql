@@ -1,0 +1,1 @@
+ALTER TABLE assistant ADD COLUMN credit DECIMAL(6,2) DEFAULT 0.00;
